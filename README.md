@@ -1,7 +1,7 @@
 # Flutter Page Navigation
 
 ## Demo
-![Application Demo](doc/static/images/flutter_page_navigation_demo.gif=600px)
+<img src="doc/static/images/flutter_page_navigation_demo.gif" style="float: left" width="250"/>
 
 ## Summary
 
