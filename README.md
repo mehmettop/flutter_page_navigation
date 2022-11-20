@@ -1,5 +1,8 @@
 # Flutter Page Navigation
 
+## Demo
+![Application Demo](doc/static/images/flutter_page_navigation_demo.gif)
+
 ## Summary
 
 Aim of the project is creating a flutter application with fixed appbar and dynamic navigation area. 
