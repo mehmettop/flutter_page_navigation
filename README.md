@@ -1,7 +1,7 @@
 # Flutter Page Navigation
 
 ## Demo
-![Application Demo](doc/static/images/flutter_page_navigation_demo.gif)
+![Application Demo](doc/static/images/flutter_page_navigation_demo.gif=600x)
 
 ## Summary
 
